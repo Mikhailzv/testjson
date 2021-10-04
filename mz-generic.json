@@ -1,0 +1,21 @@
+{
+    "fields": [
+        {
+            "name": "Invoice number",
+            "value": "123321"
+        },
+        {
+            "name": "Invoice date",
+            "value": "03/11/2021"
+        },
+        {
+            "name": "Total",
+            "value": "12332"
+        },
+        {
+            "name": "Currency",
+            "value": "USD"
+        }
+    ],
+    "Document type": "Invoice US"
+}
