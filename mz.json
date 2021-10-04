@@ -1,0 +1,9 @@
+{
+    "fields":{
+        "Invoice number" : "123321",
+        "Invoice date" : "03/11/2021",
+        "Total" : "12332",
+        "Currency" : "USD"
+    },
+    "Document type" : "Invoice US"
+}
