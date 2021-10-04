@@ -1,0 +1,91 @@
+{
+    "Fields":
+    [
+        {
+            "Name": "Invoice Number",
+            "List":
+            [
+                [
+                    {
+                        "Value": "162056",
+                        "DataType": "Number",
+                        "RawValue": "162O56",
+                        "Confidence": "0.98",
+                        "SuspiciousSymbols":
+                        [
+                            3,
+                            4
+                        ],
+                        "Rects":
+                        [
+                            [
+                                2130,
+                                1406,
+                                2285,
+                                1445
+                            ]
+                        ]
+                    }
+                ]
+            ]
+        },
+        {
+            "Name": "Purchase Order Number",
+            "List":
+            [
+                [
+                    {
+                        "Value": "4500123466"
+                    }
+                ],
+                [
+                    {
+                        "Value": "4500123467"
+                    }
+                ]
+            ]
+        },
+        {
+            "Name": "Business Unit",
+            "List":
+            [
+                [
+                    {
+                        "Name": "Name",
+                        "Value": "ABBYY USA Software HOUSE LLC"
+                    },
+                    {
+                        "Name": "Address",
+                        "Value": "ABBYY USA Software HOUSE,\nPO BOX 2982\nSHAWNEE MISSION KS 66201"
+                    }
+                ]
+            ]
+        },
+        {
+            "Name": "Line Items",
+            "List":
+            [
+                [
+                    {
+                        "Name": "Description",
+                        "Value": "Red chair"
+                    },
+                    {
+                        "Name": "Total Price",
+                        "Value": "100.00"
+                    }
+                ],
+                [
+                    {
+                        "Name": "Description",
+                        "Value": "Blue table"
+                    },
+                    {
+                        "Name": "Total Price",
+                        "Value": "250.00"
+                    }
+                ]
+            ]
+        }
+    ]
+}
