@@ -1,0 +1,73 @@
+{
+  "Fields": {
+    "Business Unit": {
+      "Address": "ABBYY USA Software HOUSE,\nPO BOX 2982\nSHAWNEE MISSION KS 66201",
+      "City": "",
+      "Country": "US",
+      "Name": "ABBYY USA Software HOUSE LLC",
+      "Street": "",
+      "ZIP Code": ""
+    },
+    "Currency": "USD",
+    "Invoice Date": "",
+    "Invoice Number": "162056",
+    "Line Items": [
+      {
+        "Article Number BU": "",
+        "Article Number Vendor": "Unit # 0098835609",
+        "Currency": "USD",
+        "Description": "Red chair",
+        "Discount": "",
+        "Net Price": "1672",
+        "Order Date": "",
+        "Order Number": "4500123466",
+        "Position": "",
+        "Quantity": "4",
+        "Tax Amount": "",
+        "Tax Code": "",
+        "Tax Rate": "",
+        "Total Price": "",
+        "Unit Price": "418",
+        "Unit of Measurement": ""
+      }
+    ],
+    "Purchase Order": [
+      {
+        "Order Number": "4500123466"
+      }
+    ],
+    "Taxes": {
+      "Net Amount 1": "1672",
+      "Net Amount 2": "",
+      "Non Taxable Amount": "",
+      "Tax 1_1": "147.14",
+      "Tax 1_2": "",
+      "Tax 1_3": "",
+      "Tax 1_4": "",
+      "Tax 2_1": "",
+      "Tax 2_2": "",
+      "Tax 2_3": "",
+      "Tax 2_4": "",
+      "Tax Rate 1_1": "8.8",
+      "Tax Rate 1_2": "",
+      "Tax Rate 1_3": "",
+      "Tax Rate 1_4": "",
+      "Tax Rate 2_1": "",
+      "Tax Rate 2_2": "",
+      "Tax Rate 2_3": "",
+      "Tax Rate 2_4": "",
+      "Total Net Amount": "1672",
+      "Total Taxes": "147.14"
+    },
+    "Total": "1819.14",
+    "Vendor": {
+      "Address": "21399 NETWORK PLACE\nCHICAGO IL 60673-1213",
+      "City": "",
+      "Country": "US",
+      "Name": "Gas & Electricity Transmission, LCC",
+      "Street": "",
+      "ZIP Code": ""
+    }
+  },
+  "Version": "1.0"
+}
