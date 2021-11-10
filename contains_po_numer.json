@@ -1,0 +1,91 @@
+{
+	"Fields": {
+		"Business Unit": {
+			"Address": "2801 SKIWANISAVE STE 201\nSIOUX FALLS, SD 57105-4236",
+			"City": "",
+			"Country": "US",
+			"Name": "YELLOW",
+			"Street": "",
+			"ZIP Code": ""
+		},
+		"Currency": "USD",
+		"Invoice Date": "",
+		"Invoice Number": "522-000845",
+		"Line Items": [
+			{
+				"Article Number BU": "",
+				"Article Number Vendor": "",
+				"Currency": "USD",
+				"Description": "LIGHTING FIXTURES 109810-3 CL85\nDISCOUNT\nFUEL SURCHARGE",
+				"Discount": "",
+				"Net Price": "90.35",
+				"Order Date": "",
+				"Order Number": "887522DIR",
+				"Position": "",
+				"Quantity": "",
+				"Tax Amount": "",
+				"Tax Code": "",
+				"Tax Rate": "4",
+				"Total Price": "",
+				"Unit Price": "",
+				"Unit of Measurement": ""
+			},
+			{
+				"Article Number BU": "",
+				"Article Number Vendor": "",
+				"Currency": "USD",
+				"Description": "RECONS-MARKING & TAGGING-PPD\n//BOB CELL#207-284-5233\n// DOCKED @ 8 DOOR\n//RECONSIGNMENT\nAUTH BY CHRISTY WILSON/770-486-4719\nRECON PNT NORTH READING MA 01864\nAUTHORIZING PARTY SHIPPER\nCHARGES PAID BY SHIPPER\nORIGINAL CHRGS PAID BY SHIPPER\nACCESSORIAL PAID BY SHIPPER\nCOMPLETED BY TANYA G TERM NRM\nDELIVERY ATTEMPTED\nRELABEL 1 LABELS\nNO STORAGE\nORIG PRO 522-243028 PPD-082304",
+				"Discount": "",
+				"Net Price": "36.95",
+				"Order Date": "",
+				"Order Number": "887522DIR",
+				"Position": "",
+				"Quantity": "",
+				"Tax Amount": "",
+				"Tax Code": "",
+				"Tax Rate": "",
+				"Total Price": "",
+				"Unit Price": "",
+				"Unit of Measurement": ""
+			}
+		],
+		"Purchase Order": [
+			{
+				"Order Number": "887522DIR"
+			}
+		],
+		"Taxes": {
+			"Net Amount 1": "",
+			"Net Amount 2": "",
+			"Non Taxable Amount": "",
+			"Tax 1_1": "",
+			"Tax 1_2": "",
+			"Tax 1_3": "",
+			"Tax 1_4": "",
+			"Tax 2_1": "",
+			"Tax 2_2": "",
+			"Tax 2_3": "",
+			"Tax 2_4": "",
+			"Tax Rate 1_1": "",
+			"Tax Rate 1_2": "",
+			"Tax Rate 1_3": "",
+			"Tax Rate 1_4": "",
+			"Tax Rate 2_1": "",
+			"Tax Rate 2_2": "",
+			"Tax Rate 2_3": "",
+			"Tax Rate 2_4": "",
+			"Total Net Amount": "",
+			"Total Taxes": ""
+		},
+		"Total": "36.95",
+		"Vendor": {
+			"Address": "P 0 BOX 5901\nTOPEKA, KS 66605-0901",
+			"City": "",
+			"Country": "US",
+			"Name": "YELLOW TRANSPORTATION, INC (YFSY)",
+			"Street": "",
+			"ZIP Code": ""
+		}
+	},
+	"Version": "1.0"
+}
